@@ -1,6 +1,6 @@
 # hello-world
 ## 这是一个标题
-[GitHub](https://fishc.com.cn/)
+[fishc](https://fishc.com.cn/)
 ![GitHub Logo](John.webp)
 >引用
 
